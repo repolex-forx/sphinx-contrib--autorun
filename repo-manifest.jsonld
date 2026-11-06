@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/autorun/commit/be1cbd304c86c05b9aae50a2d9f151e435a7ea30",
       "git:hexsha": "be1cbd304c86c05b9aae50a2d9f151e435a7ea30",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
